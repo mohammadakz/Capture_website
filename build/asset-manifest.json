@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Capture_website/static/js/main.fe35fae8.chunk.js",
-    "main.js.map": "/Capture_website/static/js/main.fe35fae8.chunk.js.map",
+    "main.js": "/Capture_website/static/js/main.73a1fa82.chunk.js",
+    "main.js.map": "/Capture_website/static/js/main.73a1fa82.chunk.js.map",
     "runtime-main.js": "/Capture_website/static/js/runtime-main.c7bcb5c6.js",
     "runtime-main.js.map": "/Capture_website/static/js/runtime-main.c7bcb5c6.js.map",
     "static/js/2.f4fda213.chunk.js": "/Capture_website/static/js/2.f4fda213.chunk.js",
     "static/js/2.f4fda213.chunk.js.map": "/Capture_website/static/js/2.f4fda213.chunk.js.map",
     "index.html": "/Capture_website/index.html",
-    "precache-manifest.5af188ee47dadc2df87c52040d3957cf.js": "/Capture_website/precache-manifest.5af188ee47dadc2df87c52040d3957cf.js",
+    "precache-manifest.19f4eb9c6aa4abf2c82d3aac24083abd.js": "/Capture_website/precache-manifest.19f4eb9c6aa4abf2c82d3aac24083abd.js",
     "service-worker.js": "/Capture_website/service-worker.js",
     "static/js/2.f4fda213.chunk.js.LICENSE.txt": "/Capture_website/static/js/2.f4fda213.chunk.js.LICENSE.txt",
     "static/media/athlete-small.png": "/Capture_website/static/media/athlete-small.f85903d4.png",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.c7bcb5c6.js",
     "static/js/2.f4fda213.chunk.js",
-    "static/js/main.fe35fae8.chunk.js"
+    "static/js/main.73a1fa82.chunk.js"
   ]
 }

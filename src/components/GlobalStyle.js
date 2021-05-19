@@ -19,6 +19,7 @@ body{
     background: #1b1b1b;
     font-family: 'Inter', sans-serif;
     overflow-x: hidden;
+    max-width: 100%;
 }
 button{
     font-weight: bold;
